@@ -1,2 +1,6 @@
 This is just a test for me
+
 i made a change in master branch
+
+this is a change by new branch
+
